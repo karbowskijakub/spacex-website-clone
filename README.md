@@ -1,5 +1,5 @@
 
-# Spacex-clone
+# SpaceX-clone
 
 
 ![Imgur](https://i.imgur.com/dtnyQvo.png)
